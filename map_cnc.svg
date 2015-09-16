@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="map_cnc.svg">
+   sodipodi:docname="map_cnc.svg"
+   inkscape:export-filename="D:\Users\Desktop\map_cnc.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
   <defs
      id="defs4">
     <filter
@@ -329,19 +332,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="337.88492"
-     inkscape:cy="417.40922"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="300.80693"
+     inkscape:cy="594.8691"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      objecttolerance="10000"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1699"
+     inkscape:window-height="921"
+     inkscape:window-x="173"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -2443,15 +2446,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="927.00342"
-       y="1048.4366"
+       x="919.5788"
+       y="1048.7902"
        id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138"
-         x="927.00342"
-         y="1048.4366"
-         style="font-size:7.5px">Verze 2 © Laranto</tspan></text>
+         x="919.5788"
+         y="1048.7902"
+         style="font-size:7.5px">Verze 2.2 © Laranto</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 124.45079,553.49833 0,-16.61701"
@@ -3093,5 +3096,80 @@
        d="m 500.5,621.36216 50.5,0"
        id="path5035"
        inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0.28646498,0,0,0.28646498,524.32006,330.41956)"
+       id="g4405-3-6">
+      <circle
+         r="27.5"
+         cy="1016.9291"
+         cx="97.5"
+         id="path4325-2-3-1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="25"
+         cy="1016.9291"
+         cx="97.5"
+         id="path3344-6-9-8"
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="20.402672"
+         rx="20.40267"
+         cy="1016.9291"
+         cx="97.5"
+         id="path4285-9-2-0"
+         style="fill:#008000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:5.1946578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.67499"
+       y="624.20898"
+       id="text5061"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5063"
+         x="559.67499"
+         y="624.20898"
+         style="font-size:7.5px">Bourgneuf</tspan></text>
+    <g
+       transform="matrix(0.28646498,0,0,0.28646498,237.23471,129.60124)"
+       id="g4405-19-2">
+      <circle
+         r="27.5"
+         cy="1016.9291"
+         cx="97.5"
+         id="path4325-2-54-5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="25"
+         cy="1016.9291"
+         cx="97.5"
+         id="path3344-6-03-6"
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="20.402672"
+         rx="20.40267"
+         cy="1016.9291"
+         cx="97.5"
+         id="path4285-9-85-0"
+         style="fill:#008000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:5.1946578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="272"
+       y="417.86215"
+       id="text5089"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5091"
+         x="272"
+         y="417.86215"
+         style="font-size:7.5px">Mineslavova</tspan><tspan
+         sodipodi:role="line"
+         x="272"
+         y="427.23715"
+         id="tspan5093"
+         style="font-size:7.5px">rezidence</tspan></text>
   </g>
 </svg>
